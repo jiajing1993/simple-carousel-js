@@ -15,3 +15,4 @@ carousel2.init();
 ```
 
 ## Example
+![alt text](https://i.imgur.com/SDQfmIW.jpg)
